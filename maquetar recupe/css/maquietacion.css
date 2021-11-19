@@ -1,0 +1,89 @@
+*{
+    margin: 1em;
+}
+#contenedor{
+    width: 800px;
+    height: 600px;
+    background-color: rgb(206, 200, 200);
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+#header{
+    height: 8%;
+    background-color: red;
+    font-family: "Homer Simpson UI";
+    font-size: x-large;
+    margin: 0,5em;
+    border-radius: 1em;
+}
+
+#footer{
+    height: 8%;
+    background-color:red;
+    margin: 0,5em;
+    border-radius: 1em;
+}
+
+#contenido{
+    height: 60%;
+    width: 100%;
+    margin: 1em;
+}
+
+#aside{
+    height:95%;
+    width: 17%;
+    background-color: red;
+    margin-left: 0.5em;
+    border-radius: 1em;
+    float: left;
+}
+
+#section{
+    height:95%;
+    width: 73%;
+    background-color: red;
+    margin-right: 0.5em;
+    border-radius: 1em;
+    float: left;
+}
+
+.articulo{
+    align-content: center;
+    width: 80%;
+    height: 15%;
+    background-color: white;
+    margin: 1em;
+    border-radius: 1em;
+    text-align: center; 
+}
+table {
+    width: 95%;
+    height: 80%;
+  }
+
+table, th, td {
+    border: 1px solid rgb(253, 252, 252);
+      
+  }
+
+  
+  #login-box {
+    border: 1px solid blue;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    background: red;
+    padding: 20px 50px;
+}
+
+#login-box h1 {
+    color: white;
+    font-family: "Arial";
+}
+
+ 
+
+
+  
